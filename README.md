@@ -35,6 +35,110 @@ This dashboard provides insights into:
 - CALCULATE, DATEADD, DATESMTD, DATESYTD
 - SUMX for row‑level calculations
 
+***DAX Measures***
+/* ============================
+   CORE SALES MEASURES
+   ============================ */
+
+Total Sales =
+SUMX ( sales_data, sales_data[Quantity] * sales_data[UnitPrice] )
+
+Total Orders =
+DISTINCTCOUNT ( sales_data[OrderID] )
+
+Total Quantity =
+SUM ( sales_data[Quantity] )
+
+Average Order Value =
+DIVIDE ( [Total Sales], [Total Orders] )
+
+
+/* ============================
+   TIME INTELLIGENCE
+   (Requires 'Date' table)
+   ============================ */
+
+Sales MTD =
+CALCULATE (
+    [Total Sales],
+    DATESMTD ( 'Date'[Date] )
+)
+
+Sales YTD =
+CALCULATE (
+    [Total Sales],
+    DATESYTD ( 'Date'[Date] )
+)
+
+Sales LY =
+CALCULATE (
+    [Total Sales],
+    DATEADD ( 'Date'[Date], -1, YEAR )
+)
+
+Sales MTD LY =
+CALCULATE (
+    [Sales MTD],
+    DATEADD ( 'Date'[Date], -1, YEAR )
+)
+
+Sales YTD LY =
+CALCULATE (
+    [Sales YTD],
+    DATEADD ( 'Date'[Date], -1, YEAR )
+)
+
+
+/* ============================
+   GROWTH METRICS
+   ============================ */
+
+YoY Growth % =
+DIVIDE (
+    [Total Sales] - [Sales LY],
+    [Sales LY]
+)
+
+MTD Growth % =
+DIVIDE (
+    [Sales MTD] - [Sales MTD LY],
+    [Sales MTD LY]
+)
+
+YTD Growth % =
+DIVIDE (
+    [Sales YTD] - [Sales YTD LY],
+    [Sales YTD LY]
+)
+
+
+/* ============================
+   CATEGORY / REGION ANALYSIS
+   ============================ */
+
+Sales by Category =
+[Total Sales]
+
+Sales by Region =
+[Total Sales]
+
+Sales per Product =
+[Total Sales]
+
+
+/* ============================
+   DATE TABLE (Required)
+   ============================ */
+
+Date =
+ADDCOLUMNS (
+    CALENDAR ( DATE(2024,1,1), DATE(2024,12,31) ),
+    "Year", YEAR([Date]),
+    "Month", FORMAT([Date], "MMMM"),
+    "Month Number", MONTH([Date]),
+    "Year-Month", FORMAT([Date], "YYYY-MM")
+)
+
 ***Python***
 - Synthetic data generation
 - Randomized customer, product, region, and date logic
