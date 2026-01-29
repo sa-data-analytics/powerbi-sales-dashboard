@@ -20,19 +20,22 @@ This dashboard provides insights into:
 ##The dataset was generated using Python to simulate realistic sales transactions.
 
 **Key Skills Demonstrated**
-Power BI
+
+***Power BI***
 - Data modeling
 - Relationships
 - Time intelligence
 - KPI design
 - Visual storytelling
 - Professional layout formatting
-DAX
+
+***DAX***
 - MTD, YTD, YoY calculations
 - Aggregations
 - CALCULATE, DATEADD, DATESMTD, DATESYTD
 - SUMX for row‑level calculations
-Python
+
+***Python***
 - Synthetic data generation
 - Randomized customer, product, region, and date logic
 - CSV export for BI consumption
