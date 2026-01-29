@@ -29,6 +29,11 @@ This dashboard provides insights into:
 - Visual storytelling
 - Professional layout formatting
 
+***Python***
+- Synthetic data generation
+- Randomized customer, product, region, and date logic
+- CSV export for BI consumption
+  
 ***DAX***
 - MTD, YTD, YoY calculations
 - Aggregations
@@ -139,8 +144,4 @@ ADDCOLUMNS (
     "Year-Month", FORMAT([Date], "YYYY-MM")
 )
 
-***Python***
-- Synthetic data generation
-- Randomized customer, product, region, and date logic
-- CSV export for BI consumption
 
