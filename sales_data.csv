@@ -1,0 +1,201 @@
+OrderID,OrderDate,Customer,Region,Product,Category,Quantity,UnitPrice
+1,2026-01-30,David Kim,North,Notebook,Stationery,4,5
+2,2026-01-17,Sarah Lee,North,Headphones,Electronics,4,80
+3,2026-01-26,Sarah Lee,West,Notebook,Stationery,2,5
+4,2026-01-07,John Smith,East,Laptop,Electronics,4,900
+5,2026-01-24,Michael Brown,North,Desk,Furniture,3,200
+6,2026-02-08,Sarah Lee,North,Mouse,Electronics,1,25
+7,2026-02-15,Emily Clark,West,Notebook,Stationery,4,5
+8,2026-02-05,Emily Clark,South,Desk,Furniture,4,200
+9,2026-01-25,John Smith,North,Pen,Stationery,3,1
+10,2026-02-18,David Kim,South,Mouse,Electronics,5,25
+11,2026-02-25,Emily Clark,North,Notebook,Stationery,3,5
+12,2026-02-28,Emily Clark,East,Monitor,Electronics,2,300
+13,2026-02-05,Sarah Lee,East,Laptop,Electronics,1,900
+14,2026-01-14,Emily Clark,South,Laptop,Electronics,4,900
+15,2026-02-22,Michael Brown,South,Mouse,Electronics,3,25
+16,2026-02-09,David Kim,East,Mouse,Electronics,2,25
+17,2026-01-05,David Kim,South,Headphones,Electronics,4,80
+18,2026-02-06,Sarah Lee,North,Desk,Furniture,3,200
+19,2026-02-03,David Kim,East,Mouse,Electronics,3,25
+20,2026-02-07,John Smith,West,Pen,Stationery,2,1
+21,2026-02-25,Emily Clark,North,Monitor,Electronics,1,300
+22,2026-02-09,John Smith,East,Laptop,Electronics,3,900
+23,2026-01-17,Sarah Lee,North,Desk,Furniture,3,200
+24,2026-01-30,David Kim,North,Headphones,Electronics,5,80
+25,2026-01-17,Sarah Lee,South,Monitor,Electronics,2,300
+26,2026-02-13,Emily Clark,North,Mouse,Electronics,1,25
+27,2026-02-01,David Kim,West,Laptop,Electronics,2,900
+28,2026-02-05,Michael Brown,East,Laptop,Electronics,1,900
+29,2026-02-16,David Kim,East,Laptop,Electronics,2,900
+30,2026-02-05,Michael Brown,West,Notebook,Stationery,1,5
+31,2026-01-01,Michael Brown,East,Mouse,Electronics,4,25
+32,2026-01-03,David Kim,North,Mouse,Electronics,4,25
+33,2026-02-03,Michael Brown,West,Mouse,Electronics,1,25
+34,2026-02-02,Michael Brown,West,Office Chair,Furniture,3,150
+35,2026-01-24,David Kim,South,Pen,Stationery,5,1
+36,2026-03-01,John Smith,East,Pen,Stationery,2,1
+37,2026-01-01,Emily Clark,North,Monitor,Electronics,1,300
+38,2026-01-30,Emily Clark,East,Desk,Furniture,4,200
+39,2026-03-01,David Kim,East,Mouse,Electronics,2,25
+40,2026-02-02,Emily Clark,North,Mouse,Electronics,4,25
+41,2026-01-13,John Smith,West,Notebook,Stationery,4,5
+42,2026-02-01,Sarah Lee,West,Laptop,Electronics,4,900
+43,2026-01-10,David Kim,North,Headphones,Electronics,2,80
+44,2026-01-09,John Smith,East,Monitor,Electronics,1,300
+45,2026-01-10,Emily Clark,North,Notebook,Stationery,5,5
+46,2026-03-02,Emily Clark,North,Laptop,Electronics,1,900
+47,2026-01-03,Sarah Lee,North,Mouse,Electronics,2,25
+48,2026-02-12,John Smith,West,Pen,Stationery,1,1
+49,2026-02-07,John Smith,East,Pen,Stationery,1,1
+50,2026-01-31,David Kim,West,Laptop,Electronics,5,900
+51,2026-01-10,David Kim,North,Laptop,Electronics,3,900
+52,2026-01-08,David Kim,South,Mouse,Electronics,5,25
+53,2026-02-24,John Smith,West,Headphones,Electronics,1,80
+54,2026-02-05,Sarah Lee,East,Notebook,Stationery,1,5
+55,2026-02-28,David Kim,South,Desk,Furniture,3,200
+56,2026-01-22,John Smith,North,Headphones,Electronics,3,80
+57,2026-01-01,Sarah Lee,East,Pen,Stationery,5,1
+58,2026-02-12,Emily Clark,South,Headphones,Electronics,2,80
+59,2026-01-13,David Kim,North,Headphones,Electronics,3,80
+60,2026-02-20,Michael Brown,North,Monitor,Electronics,3,300
+61,2026-01-12,John Smith,West,Mouse,Electronics,1,25
+62,2026-01-27,David Kim,North,Desk,Furniture,3,200
+63,2026-02-18,John Smith,North,Pen,Stationery,1,1
+64,2026-01-25,Michael Brown,East,Mouse,Electronics,3,25
+65,2026-02-06,David Kim,South,Desk,Furniture,3,200
+66,2026-01-19,Emily Clark,West,Monitor,Electronics,1,300
+67,2026-01-21,Emily Clark,East,Monitor,Electronics,3,300
+68,2026-01-17,Michael Brown,East,Mouse,Electronics,1,25
+69,2026-02-01,Sarah Lee,South,Office Chair,Furniture,1,150
+70,2026-02-19,Michael Brown,West,Monitor,Electronics,5,300
+71,2026-02-05,Sarah Lee,East,Pen,Stationery,2,1
+72,2026-01-30,Michael Brown,North,Office Chair,Furniture,5,150
+73,2026-03-01,Emily Clark,East,Headphones,Electronics,1,80
+74,2026-02-27,Michael Brown,North,Headphones,Electronics,4,80
+75,2026-01-10,David Kim,North,Headphones,Electronics,2,80
+76,2026-03-01,Sarah Lee,North,Mouse,Electronics,4,25
+77,2026-03-02,John Smith,West,Office Chair,Furniture,3,150
+78,2026-01-09,Michael Brown,West,Monitor,Electronics,3,300
+79,2026-02-02,Sarah Lee,North,Pen,Stationery,2,1
+80,2026-02-25,Emily Clark,West,Notebook,Stationery,3,5
+81,2026-02-23,John Smith,South,Mouse,Electronics,3,25
+82,2026-02-27,Michael Brown,North,Office Chair,Furniture,1,150
+83,2026-03-01,David Kim,East,Desk,Furniture,5,200
+84,2026-01-05,David Kim,East,Laptop,Electronics,2,900
+85,2026-02-28,John Smith,West,Pen,Stationery,2,1
+86,2026-02-02,Sarah Lee,East,Monitor,Electronics,5,300
+87,2026-02-23,Emily Clark,North,Mouse,Electronics,1,25
+88,2026-01-25,David Kim,West,Notebook,Stationery,1,5
+89,2026-01-04,Michael Brown,South,Laptop,Electronics,3,900
+90,2026-01-18,Sarah Lee,North,Monitor,Electronics,4,300
+91,2026-01-11,David Kim,East,Office Chair,Furniture,4,150
+92,2026-01-25,David Kim,North,Desk,Furniture,1,200
+93,2026-01-01,Emily Clark,West,Laptop,Electronics,3,900
+94,2026-02-03,Michael Brown,North,Desk,Furniture,3,200
+95,2026-01-28,David Kim,North,Pen,Stationery,2,1
+96,2026-02-16,David Kim,West,Desk,Furniture,1,200
+97,2026-01-08,Emily Clark,North,Monitor,Electronics,5,300
+98,2026-01-22,Emily Clark,East,Laptop,Electronics,4,900
+99,2026-02-10,John Smith,North,Office Chair,Furniture,3,150
+100,2026-02-23,Emily Clark,South,Headphones,Electronics,3,80
+101,2026-02-02,Michael Brown,East,Notebook,Stationery,3,5
+102,2026-02-13,John Smith,South,Notebook,Stationery,1,5
+103,2026-02-11,Michael Brown,South,Pen,Stationery,4,1
+104,2026-01-30,Michael Brown,East,Monitor,Electronics,3,300
+105,2026-01-09,John Smith,West,Desk,Furniture,2,200
+106,2026-02-20,David Kim,North,Monitor,Electronics,3,300
+107,2026-02-27,Emily Clark,South,Headphones,Electronics,3,80
+108,2026-01-13,David Kim,South,Notebook,Stationery,3,5
+109,2026-01-10,Emily Clark,South,Mouse,Electronics,4,25
+110,2026-02-21,Michael Brown,East,Monitor,Electronics,1,300
+111,2026-01-14,Michael Brown,North,Desk,Furniture,4,200
+112,2026-01-09,Michael Brown,North,Office Chair,Furniture,1,150
+113,2026-01-17,Michael Brown,East,Mouse,Electronics,3,25
+114,2026-02-01,Michael Brown,South,Mouse,Electronics,1,25
+115,2026-01-13,David Kim,North,Desk,Furniture,4,200
+116,2026-02-16,Michael Brown,North,Desk,Furniture,2,200
+117,2026-02-23,Sarah Lee,North,Notebook,Stationery,2,5
+118,2026-01-11,David Kim,South,Mouse,Electronics,2,25
+119,2026-02-08,Michael Brown,North,Monitor,Electronics,3,300
+120,2026-01-19,John Smith,South,Pen,Stationery,1,1
+121,2026-01-31,Michael Brown,South,Mouse,Electronics,2,25
+122,2026-02-02,Sarah Lee,South,Notebook,Stationery,5,5
+123,2026-01-22,John Smith,South,Monitor,Electronics,4,300
+124,2026-02-19,Michael Brown,North,Monitor,Electronics,1,300
+125,2026-01-20,David Kim,East,Office Chair,Furniture,4,150
+126,2026-01-06,Michael Brown,East,Monitor,Electronics,4,300
+127,2026-01-15,John Smith,West,Monitor,Electronics,3,300
+128,2026-02-24,David Kim,North,Headphones,Electronics,1,80
+129,2026-01-23,John Smith,East,Notebook,Stationery,4,5
+130,2026-01-30,John Smith,South,Pen,Stationery,4,1
+131,2026-01-15,Emily Clark,South,Desk,Furniture,1,200
+132,2026-02-18,Emily Clark,West,Desk,Furniture,4,200
+133,2026-02-06,David Kim,South,Monitor,Electronics,2,300
+134,2026-01-02,David Kim,East,Notebook,Stationery,3,5
+135,2026-01-12,Emily Clark,South,Notebook,Stationery,4,5
+136,2026-01-16,Sarah Lee,North,Office Chair,Furniture,4,150
+137,2026-01-01,David Kim,West,Notebook,Stationery,3,5
+138,2026-01-20,Sarah Lee,North,Notebook,Stationery,4,5
+139,2026-03-02,Emily Clark,East,Laptop,Electronics,1,900
+140,2026-02-26,Michael Brown,West,Desk,Furniture,4,200
+141,2026-01-26,John Smith,South,Office Chair,Furniture,1,150
+142,2026-03-02,John Smith,South,Headphones,Electronics,3,80
+143,2026-02-28,Sarah Lee,East,Pen,Stationery,3,1
+144,2026-01-01,Sarah Lee,West,Pen,Stationery,1,1
+145,2026-02-26,David Kim,West,Laptop,Electronics,2,900
+146,2026-01-19,John Smith,West,Headphones,Electronics,5,80
+147,2026-01-09,Michael Brown,North,Mouse,Electronics,5,25
+148,2026-02-04,David Kim,South,Headphones,Electronics,3,80
+149,2026-01-19,Michael Brown,North,Mouse,Electronics,1,25
+150,2026-01-18,Sarah Lee,North,Pen,Stationery,3,1
+151,2026-01-25,Michael Brown,North,Mouse,Electronics,3,25
+152,2026-02-10,David Kim,North,Office Chair,Furniture,1,150
+153,2026-02-10,Sarah Lee,West,Monitor,Electronics,4,300
+154,2026-01-26,John Smith,North,Laptop,Electronics,1,900
+155,2026-01-29,Sarah Lee,East,Headphones,Electronics,4,80
+156,2026-01-18,Michael Brown,East,Mouse,Electronics,3,25
+157,2026-02-17,Emily Clark,East,Desk,Furniture,5,200
+158,2026-02-13,Emily Clark,South,Notebook,Stationery,4,5
+159,2026-01-19,Emily Clark,East,Notebook,Stationery,3,5
+160,2026-01-09,Emily Clark,West,Pen,Stationery,2,1
+161,2026-02-26,Emily Clark,South,Monitor,Electronics,3,300
+162,2026-02-10,John Smith,West,Pen,Stationery,1,1
+163,2026-01-17,Sarah Lee,West,Monitor,Electronics,2,300
+164,2026-01-20,David Kim,East,Monitor,Electronics,4,300
+165,2026-01-28,Sarah Lee,South,Office Chair,Furniture,2,150
+166,2026-02-26,John Smith,West,Office Chair,Furniture,4,150
+167,2026-01-31,David Kim,East,Headphones,Electronics,4,80
+168,2026-01-04,Emily Clark,East,Headphones,Electronics,1,80
+169,2026-01-09,Emily Clark,West,Mouse,Electronics,4,25
+170,2026-01-09,John Smith,South,Mouse,Electronics,1,25
+171,2026-01-05,John Smith,West,Notebook,Stationery,2,5
+172,2026-01-16,Michael Brown,East,Laptop,Electronics,5,900
+173,2026-01-12,Emily Clark,West,Office Chair,Furniture,5,150
+174,2026-02-09,John Smith,West,Office Chair,Furniture,5,150
+175,2026-02-18,David Kim,South,Office Chair,Furniture,4,150
+176,2026-01-12,Michael Brown,South,Mouse,Electronics,4,25
+177,2026-02-23,Emily Clark,North,Laptop,Electronics,5,900
+178,2026-01-28,Michael Brown,East,Notebook,Stationery,5,5
+179,2026-02-25,Michael Brown,West,Mouse,Electronics,1,25
+180,2026-01-07,David Kim,West,Office Chair,Furniture,1,150
+181,2026-01-18,David Kim,West,Pen,Stationery,3,1
+182,2026-01-15,John Smith,West,Notebook,Stationery,2,5
+183,2026-01-19,Sarah Lee,North,Headphones,Electronics,1,80
+184,2026-01-01,John Smith,North,Notebook,Stationery,5,5
+185,2026-02-15,Sarah Lee,South,Headphones,Electronics,5,80
+186,2026-02-23,Michael Brown,South,Pen,Stationery,4,1
+187,2026-01-04,Michael Brown,North,Mouse,Electronics,1,25
+188,2026-01-28,John Smith,North,Mouse,Electronics,1,25
+189,2026-02-07,Michael Brown,North,Office Chair,Furniture,4,150
+190,2026-01-15,John Smith,West,Headphones,Electronics,4,80
+191,2026-01-23,Emily Clark,South,Headphones,Electronics,3,80
+192,2026-02-23,Michael Brown,East,Monitor,Electronics,3,300
+193,2026-01-19,Sarah Lee,East,Notebook,Stationery,3,5
+194,2026-01-13,Emily Clark,West,Laptop,Electronics,3,900
+195,2026-02-10,Emily Clark,West,Notebook,Stationery,3,5
+196,2026-03-01,John Smith,East,Laptop,Electronics,5,900
+197,2026-02-23,Emily Clark,West,Mouse,Electronics,3,25
+198,2026-01-10,John Smith,North,Monitor,Electronics,1,300
+199,2026-01-06,Michael Brown,West,Laptop,Electronics,1,900
+200,2026-02-16,David Kim,West,Laptop,Electronics,3,900
